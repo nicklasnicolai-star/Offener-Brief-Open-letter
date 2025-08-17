@@ -91,6 +91,3 @@ For questions, discussions, or suggestions:
 **Please contact via GitHub Issues or Discussions.**
 
 ---
-
-**Keine Vermischung. Keine Verkürzung. Keine unnötigen Kontakte.**
-Falls noch etwas geändert werden soll, sag einfach Bescheid.
