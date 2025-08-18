@@ -1,5 +1,3 @@
-Klar, hier beide Versionen jeweils **ohne** E-Mail/Privatkontakt, **nur** mit Verweis auf GitHub für Rückfragen oder Diskussion:
-
 ---
 
 ## README (Deutsch)
