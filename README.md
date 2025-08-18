@@ -1,5 +1,3 @@
----
-
 ## README (Deutsch)
 
 # Offener Brief an die Tech-Industrie
